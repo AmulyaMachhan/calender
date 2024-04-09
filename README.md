@@ -4,7 +4,8 @@ EventMaster Calendar is a simple yet powerful web application that allows users 
 
 You can view this site [here](https://amulyamachhan.github.io/calender/);
 
-![amulyamachhan github io_calender_](https://github.com/AmulyaMachhan/calender/assets/111338400/a7fc1364-96db-4884-97d6-15d0789ca6a6)
+![eventcalender](https://github.com/AmulyaMachhan/calender/assets/111338400/35d9e8d0-2e20-4716-a04b-6fcb79a9ea43)
+
 
 
 ## Features
